@@ -1,0 +1,21 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+DiceView.cpp:26:6:virtual void DiceView::tearDownScreen()	0	static
+DiceView.cpp:166:6:virtual void DiceView::enterCubeAnimationEnded()	0	static
+DiceView.cpp:182:6:virtual void DiceView::chromArtButtonPressed(bool)	0	static
+DiceView.cpp:14:6:virtual void DiceView::setupScreen()	8	static
+DiceView.cpp:33:6:virtual void DiceView::handleTickEvent()	16	static
+DiceView.cpp:69:6:virtual void DiceView::scaleSliderChanged(int)	16	static
+DiceView.cpp:89:6:virtual void DiceView::upPressed()	16	static
+DiceView.cpp:104:6:virtual void DiceView::downPressed()	16	static
+DiceView.cpp:119:6:virtual void DiceView::leftPressed()	16	static
+DiceView.cpp:135:6:virtual void DiceView::rightPressed()	16	static
+DiceView.cpp:151:6:virtual void DiceView::exitCubeAnimationEnded()	24	static
+AdvacneDiceContainer.hpp:11:13:AdvacneDiceContainer::~AdvacneDiceContainer()	16	static
+DiceView.hpp:11:13:DiceView::~DiceView()	8	static
+DiceView.hpp:11:13:virtual DiceView::~DiceView()	8	static
+AdvacneDiceContainer.hpp:11:13:virtual AdvacneDiceContainer::~AdvacneDiceContainer()	8	static
+DiceView.cpp:4:1:DiceView::DiceView()	8	static
+DiceView.cpp:187:6:void DiceView::changeCubeState()	32	static
+DiceView.cpp:76:6:virtual void DiceView::animationComplexTionChanged(bool)	8	static
+DiceView.cpp:173:6:virtual void DiceView::animationDone()	8	static

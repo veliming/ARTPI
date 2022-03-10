@@ -1,0 +1,5 @@
+DicePresenter.hpp:28:13:DicePresenter::~DicePresenter()	0	static
+DicePresenter.cpp:10:6:virtual void DicePresenter::activate()	0	static
+DicePresenter.hpp:28:13:virtual DicePresenter::~DicePresenter()	8	static
+DicePresenter.hpp:28:13:virtual void* DicePresenter::_ZThn4_N13DicePresenterD1Ev()	0	static
+DicePresenter.cpp:4:1:DicePresenter::DicePresenter(DiceView&)	8	static

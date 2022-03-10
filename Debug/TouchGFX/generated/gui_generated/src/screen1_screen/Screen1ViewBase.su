@@ -1,0 +1,19 @@
+Drawable.hpp:298:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+Drawable.hpp:310:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+Drawable.hpp:361:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+Drawable.hpp:383:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+Drawable.hpp:481:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+Drawable.hpp:568:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	8	static
+Container.hpp:165:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+Screen1ViewBase.hpp:21:13:Screen1ViewBase::~Screen1ViewBase()	0	static
+Screen1ViewBase.cpp:60:6:virtual void Screen1ViewBase::setupScreen()	0	static
+GraphWrapAndClear.hpp:56:7:touchgfx::GraphWrapAndClear<200>::~GraphWrapAndClear()	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+GraphWrapAndClear.hpp:56:7:virtual touchgfx::GraphWrapAndClear<200>::~GraphWrapAndClear()	8	static
+Screen1ViewBase.hpp:21:13:virtual Screen1ViewBase::~Screen1ViewBase()	8	static
+Screen1ViewBase.cpp:11:1:Screen1ViewBase::Screen1ViewBase()	80	static

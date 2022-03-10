@@ -1,0 +1,4 @@
+FakeHardware.cpp:10:1:FakeHardware::FakeHardware()	0	static
+FakeHardware.cpp:16:5:int FakeHardware::readCurrentValue()	8	static
+FakeHardware.cpp:25:5:int FakeHardware::readCurrentValueOffline()	16	static
+FakeHardware.cpp:33:6:void FakeHardware::increaseDesiredValue()	0	static
